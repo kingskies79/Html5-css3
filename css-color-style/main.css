@@ -1,0 +1,11 @@
+body {
+    color: yellow;
+    background-color: red;
+    }
+    h1 {
+    color: red;
+    background-color: yellow;
+    }
+    p {
+        color: HSL(90, 75%, 25%);
+        }
